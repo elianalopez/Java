@@ -7,6 +7,8 @@ The link to the document is <a href="https://github.com/elianalopez/Java/blob/ma
 
 
 ## Assignment 2: Installation, programming environment, and Hello, World!
+### Installing Java for Windows
 For assignment 2 I have documented a tutorial on how to install Java for windows. If you would like to read it, link to the PDF is <a href="https://github.com/elianalopez/Java/blob/master/Assignment2/Java_Installation.pdf">here</a>.
+### Hello, World! Program and Documentation
 I have also created a Hello, World! program in Java under the name <a href="https://github.com/elianalopez/Java/blob/master/Assignment2/hello.java">hello.java</a>.
 Lastly, all my documentation regarding installation, programming environment, and the Hello, World! programming processes has been documented to this <a href="https://github.com/elianalopez/Java/blob/master/Assignment2/PLP-Assignment2.pdf">PDF</a>.
