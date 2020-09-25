@@ -12,3 +12,4 @@ For assignment 2 I have documented a tutorial on how to install Java for windows
 ### Hello, World! Program and Documentation
 I have also created a Hello, World! program in Java under the name <a href="https://github.com/elianalopez/Java/blob/master/Assignment2/hello.java">hello.java</a>.
 Lastly, all my documentation regarding installation, programming environment, and the Hello, World! programming processes has been documented to this <a href="https://github.com/elianalopez/Java/blob/master/Assignment2/PLP-Assignment2.pdf">PDF</a>.
+## Assignment 3: Data types and naming conventions
