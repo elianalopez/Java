@@ -15,4 +15,8 @@ Lastly, all my documentation regarding installation, programming environment, an
 ## Assignment 3: Data types and naming conventions
 In this assignmentI have studied the various types of primitive and non-primitive data types in Java. I have also learned about the best naming convetions for Java when it comes to naming certain variables in order to make Java legible and easy to analyze from a causal spectator of my code. This entire assigment has been recorded <a href="https://github.com/elianalopez/Java/blob/master/Assignment3/PLP-Assignment3.pdf">here</a>.
 ### The primitive and non-primitive data types
-Java has two categories of data types: primitve and non-primtive. 
+Java has two categories of data types: primitve and non-primitive data types. Primitive data types are already pre-defined data types while non-primitve data types are created by programmer. 
+#### Primitive data types
+* Item 1
+* Item 2
+
