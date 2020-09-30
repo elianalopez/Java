@@ -17,9 +17,10 @@ In this assignmentI have studied the various types of primitive and non-primitiv
 ### The primitive and non-primitive data types
 Java has two categories of data types: primitve and non-primitive data types. Primitive data types are already pre-defined data types while non-primitve data types are created by programmer. 
 #### Primitive data types
-* Byte
-* Short
-* Int
+
+* Byte                *
+* Short               *
+* Int                 *
 * Long
 * Float
 * Double
