@@ -1,5 +1,11 @@
 # Java
 GitHub repository for CS 330 Programming Language Project (PLP) which will mainly consist of Java Tutorials
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 
 ## Assignment 1: Language Selection and Overview
 This assignment consist of researching my language of choice, Java, and I answer questions based on the language's history, functionaility, and how it is utilized.
