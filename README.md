@@ -14,7 +14,7 @@
 ## Table of Contents  
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
-<summary>"click to expand"</summary>
+<summary>click to expand</summary>
  
 - [Assignment 1](#assignment-1-language-selection-and-overview)  
 - [Assignment 2](#assignment-2-installation-programming-environment-and-hello-world)  
@@ -56,7 +56,8 @@ Down below is a short summary of the full-indepth information I have written.
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
-<summary>"click to expand"</summary>
+<summary>click to view more about data types and naming conventions</summary>
+ 
 ### The primitive and non-primitive data types
 Java has two categories of data types: primitve and non-primitive data types. Primitive data types are already pre-defined data types while non-primitve data types are created by programmer. 
 #### Primitive data types
@@ -120,7 +121,7 @@ To learn more about naming conventions, I recommended viewing the document Sun M
 ## Works Cited
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
-<summary>"click to expand citations"</summary>
+<summary>expand citations</summary>
  
 <p>
 Bhatnagar, A. (2019, May 02). <i>The complete History of Java Programming Language</i>. Retrieved September 05, 2020, from <br>
