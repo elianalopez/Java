@@ -115,9 +115,9 @@ Vaidya, N. (2019, July 25). What is Type Casting in Java?: Java Type Casting Exa
 Vats, R. (2020, June 26). Top 8 Java Projects on Github You Should Get Your Hands-on [2020]. Retrieved September 05, 2020, from 
   https://www.upgrad.com/blog/java-projects-on-github/ <br>
 What is a boilerplate code? (n.d.). Retrieved September 10, 2020, from  <br>
-&thinsp;  https://www.educative.io/edpresso/what-is-a-boilerplate-code <br>
+&thinsp;&thinsp;  https://www.educative.io/edpresso/what-is-a-boilerplate-code <br>
 Where is Java used in Real World? (2017, December 3). Retrieved September 05, 2020, from <br>
-&thinsp;  https://javarevisited.blogspot.com/2014/12/where-does-java-used-in-real-world.html <br>
+&thinsp;&thinsp;  https://javarevisited.blogspot.com/2014/12/where-does-java-used-in-real-world.html <br>
 </p>
 
 
