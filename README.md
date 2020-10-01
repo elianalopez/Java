@@ -81,25 +81,21 @@ To learn more about naming conventions, I recommended viewing the document Sun M
 <details>
 <summary>"Click to expand"</summary>
  
-Gries, D. (2018). Safety and Strong Versus Weak Typing. Retrieved September 25, 2020, from
-<br>
+Gries, D. (2018). Safety and Strong Versus Weak Typing. Retrieved September 25, 2020, from <br>
   https://www.cs.cornell.edu/courses/JavaAndDS/files/strongWeakType.pdf
-<br>  
-Sun Microsystems. (2015). Naming Conventions. Retrieved September 25, 2020, from 
-  https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
-GeeksforGeeks. (2019, November 17). Type conversion in Java with Examples. Retrieved September 25, 2020, from 
+GeeksforGeeks. (2019, November 17). Type conversion in Java with Examples. Retrieved September 25, 2020, from <br>
   https://www.geeksforgeeks.org/type-conversion-java-examples/
-GeeksforGeeks. (2020, August 24). Java Naming Conventions. Retrieved September 25, 2020, from 
+GeeksforGeeks. (2020, August 24). Java Naming Conventions. Retrieved September 25, 2020, from <br>
   https://www.geeksforgeeks.org/java-naming-conventions/
-Jarosciak, J. (2018, January 18). Java for Beginners 2 – Addressing Data Type Limitations. Retrieved September 25, 2020, from 
+Jarosciak, J. (2018, January 18). Java for Beginners 2 – Addressing Data Type Limitations. Retrieved September 25, 2020, from <br>
   https://www.joe0.com/2018/01/18/java-for- beginners-addressing-data-type-limitations/
-Java Data Types. (n.d.). Retrieved September 24, 2020, from 
+Java Data Types. (n.d.). Retrieved September 24, 2020, from <br>
   https://www.w3schools.com/java/java_data_types.asp
-Oracle. (2015). Dynamic typing vs. static typing. Retrieved September 24, 2020, from 
+Oracle. (2015). Dynamic typing vs. static typing. Retrieved September 24, 2020, from <br>
   https://docs.oracle.com/cd/E57471_01/bigData.100/extensions_bdd/src/cext_transform_typing.html
-Sun Microsystems. (2015). Naming Conventions. Retrieved September 25, 2020, from 
+Sun Microsystems. (2015). Naming Conventions. Retrieved September 25, 2020, from <br>
   https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
-Vaidya, N. (2019, July 25). What is Type Casting in Java?: Java Type Casting Examples. Retrieved September 25, 2020, from 
+Vaidya, N. (2019, July 25). What is Type Casting in Java?: Java Type Casting Examples. Retrieved September 25, 2020, from <br>
   https://www.edureka.co/blog/type-casting-in-java/
 
 </details>
