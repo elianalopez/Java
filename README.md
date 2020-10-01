@@ -100,7 +100,7 @@ GitHub. (n.d.). <i>Java</i>. Retrieved September 05, 2020, from <br>
 &thinsp;&thinsp;  https://javarevisited.blogspot.com/2014/06/is-java-interpreted-or-compiled-programming-language.html <br>
 Jarosciak, J. (2018, January 18). <i>Java for Beginners 2 – Addressing Data Type Limitations</i>. Retrieved September 25, 2020, from <br>
 &thinsp;&thinsp;  https://www.joe0.com/2018/01/18/java-for-beginners-addressing-data-type-limitations/<br>
-<i>Java Data Types. (n.d.). Retrieved September 24, 2020, from <br>
+<i>Java Data Types</i>. (n.d.). Retrieved September 24, 2020, from <br>
 &thinsp;&thinsp;  https://www.w3schools.com/java/java_data_types.asp<br>
 Oracle. (2015). <i>Dynamic typing vs. static typing</i>. Retrieved September 24, 2020, from <br>
 &thinsp;&thinsp;  https://docs.oracle.com/cd/E57471_01/bigData.100/extensions_bdd/src/cext_transform_typing.html<br>
