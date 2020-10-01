@@ -1,10 +1,11 @@
 <br />
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png" width="50" height="100">
+<h3 align="center">Java</h3>
+<p>GitHub repository for CS 330 Programming Language Project (PLP) which will mainly consist of Java Tutorials</p>
 </p>
 
 # Java
-GitHub repository for CS 330 Programming Language Project (PLP) which will mainly consist of Java Tutorials
 ##### Table of Contents  
 * [Assignment 1](#assignment-1-language-selection-and-overview)  
 * [Assignment 2](#assignment-2-installation-programming-environment-and-hello-world)  
