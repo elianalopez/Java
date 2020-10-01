@@ -82,41 +82,41 @@ To learn more about naming conventions, I recommended viewing the document Sun M
 <summary>"Click to expand"</summary>
  
 <p>
-Bhatnagar, A. (2019, May 02). The complete History of Java Programming Language. Retrieved September 05, 2020, from <br>
+Bhatnagar, A. (2019, May 02). <i>The complete History of Java Programming Language</i>. Retrieved September 05, 2020, from <br>
 &thinsp;&thinsp;  https://www.geeksforgeeks.org/the-complete-history-of-java-programming-language/ <br>
-Elizabeth, J. (2018, April 05). Top 5 most popular Java projects on GitHub. Retrieved September 05, 2020, from <br>
+Elizabeth, J. (2018, April 05). <i>Top 5 most popular Java projects on GitHub</i>. Retrieved September 05, 2020, from <br>
 &thinsp;&thinsp;  https://jaxenter.com/top-5-most-popular-java-projects-github-143123.html <br>
-Gries, D. (2018). Safety and Strong Versus Weak Typing. Retrieved September 25, 2020, from <br>
+Gries, D. (2018). <i>Safety and Strong Versus Weak Typing</i>. Retrieved September 25, 2020, from <br>
 &thinsp;&thinsp;  https://www.cs.cornell.edu/courses/JavaAndDS/files/strongWeakType.pdf<br>
-GeeksforGeeks.(2017, April 24). Comments in Java. Retrieved September 10, 2020, from <br>
+GeeksforGeeks.(2017, April 24). <i>Comments in Java</i>. Retrieved September 10, 2020, from <br>
 &thinsp;&thinsp;  https://www.geeksforgeeks.org/comments-in-java/ <br>
-GeeksforGeeks. (2019, November 17). Type conversion in Java with Examples. Retrieved September 25, 2020, from <br>
+GeeksforGeeks. (2019, November 17). <i>Type conversion in Java with Examples</i>. Retrieved September 25, 2020, from <br>
 &thinsp;&thinsp;  https://www.geeksforgeeks.org/type-conversion-java-examples/<br>
-GeeksforGeeks. (2020, August 24). Java Naming Conventions. Retrieved September 25, 2020, from <br>
+GeeksforGeeks. (2020, August 24). <i>Java Naming Conventions</i>. Retrieved September 25, 2020, from <br>
 &thinsp;&thinsp;  https://www.geeksforgeeks.org/java-naming-conventions/ <br>
-GitHub. (n.d.). Java. Retrieved September 05, 2020, from <br>
+GitHub. (n.d.). <i>Java</i>. Retrieved September 05, 2020, from <br>
 &thinsp;&thinsp;  https://github.com/topics/java?o=desc&s=stars <br>
-Is Java Compiled or Interpreted Programming language? (2017, June 11). Retrieved September 05, 2020, from <br>
+<i>Is Java Compiled or Interpreted Programming language?</i> (2017, June 11). Retrieved September 05, 2020, from <br>
 &thinsp;&thinsp;  https://javarevisited.blogspot.com/2014/06/is-java-interpreted-or-compiled-programming-language.html <br>
-Jarosciak, J. (2018, January 18). Java for Beginners 2 – Addressing Data Type Limitations. Retrieved September 25, 2020, from <br>
+Jarosciak, J. (2018, January 18). <i>Java for Beginners 2 – Addressing Data Type Limitations</i>. Retrieved September 25, 2020, from <br>
 &thinsp;&thinsp;  https://www.joe0.com/2018/01/18/java-for-beginners-addressing-data-type-limitations/<br>
-Java Data Types. (n.d.). Retrieved September 24, 2020, from <br>
+<i>Java Data Types. (n.d.). Retrieved September 24, 2020, from <br>
 &thinsp;&thinsp;  https://www.w3schools.com/java/java_data_types.asp<br>
-Oracle. (2015). Dynamic typing vs. static typing. Retrieved September 24, 2020, from <br>
+Oracle. (2015). <i>Dynamic typing vs. static typing</i>. Retrieved September 24, 2020, from <br>
 &thinsp;&thinsp;  https://docs.oracle.com/cd/E57471_01/bigData.100/extensions_bdd/src/cext_transform_typing.html<br>
-Oracle. (n.d.). Oracle JDK 8 and JRE 8 Certified System Configurations. Retrieved September 09, 2020, from <br>
+Oracle. (n.d.). <i>Oracle JDK 8 and JRE 8 Certified System Configurations</i>. Retrieved September 09, 2020, from <br>
 &thinsp;&thinsp;  https://www.oracle.com/java/technologies/javase/products-doc-jdk8-jre8-certconfig.html <br>
-Singh, V. (2020, August 20). Best Java IDE 2020: Most Popular Java IDE for Coding. Retrieved September 10, 2020, from <br>
+Singh, V. (2020, August 20). <i>Best Java IDE 2020: Most Popular Java IDE for Coding</i>. Retrieved September 10, 2020, from <br>
 &thinsp;&thinsp;  https://hackr.io/blog/best-java-ides<br>
-Sun Microsystems. (2015). Naming Conventions. Retrieved September 25, 2020, from <br>
+Sun Microsystems. (2015). <i>Naming Conventions</i>. Retrieved September 25, 2020, from <br>
 &thinsp;&thinsp;  https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html<br>
-Vaidya, N. (2019, July 25). What is Type Casting in Java?: Java Type Casting Examples. Retrieved September 25, 2020, from <br>
+Vaidya, N. (2019, July 25). <i>What is Type Casting in Java?: Java Type Casting Examples</i>. Retrieved September 25, 2020, from <br>
 &thinsp;&thinsp;  https://www.edureka.co/blog/type-casting-in-java/<br>
-Vats, R. (2020, June 26). Top 8 Java Projects on Github You Should Get Your Hands-on [2020]. Retrieved September 05, 2020, from 
+Vats, R. (2020, June 26). <i>Top 8 Java Projects on Github You Should Get Your Hands-on [2020]</i>. Retrieved September 05, 2020, from 
 &thinsp;&thinsp;  https://www.upgrad.com/blog/java-projects-on-github/ <br>
-What is a boilerplate code? (n.d.). Retrieved September 10, 2020, from  <br>
+<i>What is a boilerplate code?</i> (n.d.). Retrieved September 10, 2020, from  <br>
 &thinsp;&thinsp;  https://www.educative.io/edpresso/what-is-a-boilerplate-code <br>
-Where is Java used in Real World? (2017, December 3). Retrieved September 05, 2020, from <br>
+<i>Where is Java used in Real World?</i> (2017, December 3). Retrieved September 05, 2020, from <br>
 &thinsp;&thinsp;  https://javarevisited.blogspot.com/2014/12/where-does-java-used-in-real-world.html <br>
 </p>
 
