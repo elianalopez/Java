@@ -77,10 +77,9 @@ The practice of following these naming conventions make Java programs much easie
 To learn more about naming conventions, I recommended viewing the document Sun Microsystems created which I will direct to via <a href="https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html">this webpage</a>.
 
 ## Works Cited
-<p align="center"> All the works cited throughout the duration of this semester long project.</p>
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
-<summary>"Click to expand"</summary>
+<summary>"Click to expand citations"</summary>
  
 <p>
 Bhatnagar, A. (2019, May 02). <i>The complete History of Java Programming Language</i>. Retrieved September 05, 2020, from <br>
