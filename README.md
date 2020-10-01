@@ -82,21 +82,21 @@ To learn more about naming conventions, I recommended viewing the document Sun M
 <summary>"Click to expand"</summary>
  
 Gries, D. (2018). Safety and Strong Versus Weak Typing. Retrieved September 25, 2020, from <br>
-  https://www.cs.cornell.edu/courses/JavaAndDS/files/strongWeakType.pdf
+  https://www.cs.cornell.edu/courses/JavaAndDS/files/strongWeakType.pdf<br>
 GeeksforGeeks. (2019, November 17). Type conversion in Java with Examples. Retrieved September 25, 2020, from <br>
-  https://www.geeksforgeeks.org/type-conversion-java-examples/
+  https://www.geeksforgeeks.org/type-conversion-java-examples/<br>
 GeeksforGeeks. (2020, August 24). Java Naming Conventions. Retrieved September 25, 2020, from <br>
-  https://www.geeksforgeeks.org/java-naming-conventions/
+  https://www.geeksforgeeks.org/java-naming-conventions/<br>
 Jarosciak, J. (2018, January 18). Java for Beginners 2 – Addressing Data Type Limitations. Retrieved September 25, 2020, from <br>
-  https://www.joe0.com/2018/01/18/java-for- beginners-addressing-data-type-limitations/
+  https://www.joe0.com/2018/01/18/java-for-beginners-addressing-data-type-limitations/<br>
 Java Data Types. (n.d.). Retrieved September 24, 2020, from <br>
-  https://www.w3schools.com/java/java_data_types.asp
+  https://www.w3schools.com/java/java_data_types.asp<br>
 Oracle. (2015). Dynamic typing vs. static typing. Retrieved September 24, 2020, from <br>
-  https://docs.oracle.com/cd/E57471_01/bigData.100/extensions_bdd/src/cext_transform_typing.html
+  https://docs.oracle.com/cd/E57471_01/bigData.100/extensions_bdd/src/cext_transform_typing.html<br>
 Sun Microsystems. (2015). Naming Conventions. Retrieved September 25, 2020, from <br>
-  https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
+  https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html<br>
 Vaidya, N. (2019, July 25). What is Type Casting in Java?: Java Type Casting Examples. Retrieved September 25, 2020, from <br>
-  https://www.edureka.co/blog/type-casting-in-java/
+  https://www.edureka.co/blog/type-casting-in-java/<br>
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
