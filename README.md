@@ -1,4 +1,6 @@
-![alt tag](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png){:height="50%" width="50%"}
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png" width="100" height="100">
+</center>
 
 # Java
 GitHub repository for CS 330 Programming Language Project (PLP) which will mainly consist of Java Tutorials
