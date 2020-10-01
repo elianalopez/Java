@@ -13,13 +13,18 @@ GitHub repository for CS 330 Programming Language Project (PLP) which will mainl
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents  
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>"Click to expand"</summary>
 * [Assignment 1](#assignment-1-language-selection-and-overview)  
 * [Assignment 2](#assignment-2-installation-programming-environment-and-hello-world)  
 * [Assignment 3](#assignment-3-data-types-and-naming-conventions)  
   * [Primitive and Non-Primitive Data Types](#The-primitive-and-non-primitive-data-types)  
   * [Naming Conventions](#Java-Naming-Conventions)  
 
-<a name="headers"/>
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
 
 ## Assignment 1: Language Selection and Overview
 This assignment consist of researching my language of choice, Java, and I answer questions based on the language's history, functionaility, and how it is utilized.
