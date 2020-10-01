@@ -81,6 +81,7 @@ To learn more about naming conventions, I recommended viewing the document Sun M
 <details>
 <summary>"Click to expand"</summary>
  
+<p>
 Bhatnagar, A. (2019, May 02). The complete History of Java Programming Language. Retrieved September 05, 2020, from <br>
   https://www.geeksforgeeks.org/the-complete-history-of-java-programming-language/ <br>
 Elizabeth, J. (2018, April 05). Top 5 most popular Java projects on GitHub. Retrieved September 05, 2020, from <br>
@@ -115,9 +116,9 @@ Vats, R. (2020, June 26). Top 8 Java Projects on Github You Should Get Your Hand
   https://www.upgrad.com/blog/java-projects-on-github/ <br>
 What is a boilerplate code? (n.d.). Retrieved September 10, 2020, from  <br>
   https://www.educative.io/edpresso/what-is-a-boilerplate-code <br>
-Where is Java used in Real World? (2017, December 3). Retrieved September 05, 2020, from 
+Where is Java used in Real World? (2017, December 3). Retrieved September 05, 2020, from <br>
   https://javarevisited.blogspot.com/2014/12/where-does-java-used-in-real-world.html <br>
-
+</p>
 
 
 </details>
