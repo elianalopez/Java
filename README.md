@@ -112,12 +112,12 @@ Sun Microsystems. (2015). <i>Naming Conventions</i>. Retrieved September 25, 202
 &thinsp;&thinsp;  https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html<br>
 Vaidya, N. (2019, July 25). <i>What is Type Casting in Java?: Java Type Casting Examples</i>. Retrieved September 25, 2020, from <br>
 &thinsp;&thinsp;  https://www.edureka.co/blog/type-casting-in-java/<br>
-Vats, R. (2020, June 26). <i>Top 8 Java Projects on Github You Should Get Your Hands-on [2020]</i>. Retrieved September 05, 2020, from 
-&thinsp;&thinsp;  https://www.upgrad.com/blog/java-projects-on-github/ <br><br>
+Vats, R. (2020, June 26). <i>Top 8 Java Projects on Github You Should Get Your Hands-on [2020]</i>. Retrieved September 05, 2020, from <br>
+&thinsp;&thinsp;  https://www.upgrad.com/blog/java-projects-on-github/ <br>
 <i>What is a boilerplate code?</i> (n.d.). Retrieved September 10, 2020, from  <br>
-&thinsp;&thinsp;  https://www.educative.io/edpresso/what-is-a-boilerplate-code <br><br>
+&thinsp;&thinsp;  https://www.educative.io/edpresso/what-is-a-boilerplate-code <br>
 <i>Where is Java used in Real World?</i> (2017, December 3). Retrieved September 05, 2020, from <br>
-&thinsp;&thinsp;  https://javarevisited.blogspot.com/2014/12/where-does-java-used-in-real-world.html <br><br>
+&thinsp;&thinsp;  https://javarevisited.blogspot.com/2014/12/where-does-java-used-in-real-world.html <br>
 </p>
 
 
