@@ -82,7 +82,9 @@ To learn more about naming conventions, I recommended viewing the document Sun M
 <summary>"Click to expand"</summary>
  
 Gries, D. (2018). Safety and Strong Versus Weak Typing. Retrieved September 25, 2020, from
-  https://www.cs.cornell.edu/courses/JavaAndDS/files/strongWeakType.pdf 
+<br>
+  https://www.cs.cornell.edu/courses/JavaAndDS/files/strongWeakType.pdf
+<br>  
 Sun Microsystems. (2015). Naming Conventions. Retrieved September 25, 2020, from 
   https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
 GeeksforGeeks. (2019, November 17). Type conversion in Java with Examples. Retrieved September 25, 2020, from 
