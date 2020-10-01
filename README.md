@@ -51,7 +51,7 @@ class HelloWorld{
 }
 ```
 ## Assignment 3: Data types and naming conventions
-In this assignmentI have studied the various types of primitive and non-primitive data types in Java. I have also learned about the best naming convetions for Java when it comes to naming certain variables in order to make Java legible and easy to analyze from a causal spectator of my code. This entire assigment has been recorded <a href="https://github.com/elianalopez/Java/blob/master/Assignment3/DataTypes.java">here</a>.
+In this assignmentI have studied the various types of primitive and non-primitive data types in Java. I have also learned about the best naming convetions for Java when it comes to naming certain variables in order to make Java legible and easy to analyze from a causal spectator of my code. This entire assigment has been recorded <a href="https://github.com/elianalopez/Java/blob/master/Assignment3/PLP-Assignment3.pdf">here</a>.
 Down below is a short summary of the full-indepth information I have written.
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
