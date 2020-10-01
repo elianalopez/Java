@@ -20,7 +20,8 @@
 - [Assignment 2](#assignment-2-installation-programming-environment-and-hello-world)  
 - [Assignment 3](#assignment-3-data-types-and-naming-conventions)  
   * [Primitive and Non-Primitive Data Types](#The-primitive-and-non-primitive-data-types)  
-  * [Naming Conventions](#Java-Naming-Conventions)  
+  * [Naming Conventions](#Java-Naming-Conventions)
+- [Citations](#works-cited)  
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -59,12 +60,12 @@ Java has two categories of data types: primitve and non-primitive data types. Pr
 
 ### Java Naming Conventions
 The practice of following these naming conventions make Java programs much easier to analyze and read for a casual observer of the code. Java communities, such as Sun Microsystems and Netscape, ecourage certain pratices utilizing CamelCase when naming variables. CamelCase is the practice of writing words without spaces or punctuation of any kind. 
-
-```CamelCase```
 <br>
-```lowerCamelCase```
+```lowerCamelCase \\Variables and Class Members are expressed in lowerCamelCase```
 <br>
-```UpperCamelCase```
+```UpperCamelCase \\Classes are typically written in UpperCamelCase```
+<br>
 <br>
 To learn more about naming conventions, I recommended viewing the document Sun Microsystems created which I will direct to via <a href="https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html">this webpage</a>.
 
+## Works Cited
