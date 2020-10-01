@@ -14,7 +14,7 @@
 ## Table of Contents  
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
-<summary>"Click to expand"</summary>
+<summary>"click to expand"</summary>
  
 - [Assignment 1](#assignment-1-language-selection-and-overview)  
 - [Assignment 2](#assignment-2-installation-programming-environment-and-hello-world)  
@@ -110,7 +110,7 @@ To learn more about naming conventions, I recommended viewing the document Sun M
 ## Works Cited
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
-<summary>"Click to expand citations"</summary>
+<summary>"click to expand citations"</summary>
  
 <p>
 Bhatnagar, A. (2019, May 02). <i>The complete History of Java Programming Language</i>. Retrieved September 05, 2020, from <br>
