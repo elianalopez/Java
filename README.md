@@ -20,7 +20,7 @@
 - [Assignment 2](#assignment-2-installation-programming-environment-and-hello-world)  
   * [hello.java](#hellojava)
 - [Assignment 3](#assignment-3-data-types-and-naming-conventions)  
-  * [Primitive and Non-Primitive Data Types](#The-primitive-and-non-primitive-data-types)  
+  * [Primitive and Non-Primitive Data Types](#the-primitive-and-non-primitive-data-types)  
   * [Naming Conventions](#Java-Naming-Conventions)
   * [DataTypes.java](#DataTypes.java)
 - [Assignment 4](#assignment-4-control-flow)  
