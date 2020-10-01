@@ -1,7 +1,7 @@
 <br />
  <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png" width="50" height="100">
-    <h3 align="center">Java</h3>
+    <h2 align="center">Java</h2>
     <p align="center">GitHub repository for CS 330 Programming Language Project (PLP) which will mainly consist of Java Tutorials</p>
  </p>
 
