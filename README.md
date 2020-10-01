@@ -42,7 +42,7 @@ For assignment 2 I have documented a tutorial on how to install Java for windows
 I have also created a Hello, World! program in Java under the name <a href="https://github.com/elianalopez/Java/blob/master/Assignment2/hello.java">hello.java</a>.
 Lastly, all my documentation regarding installation, programming environment, and the Hello, World! programming processes has been documented to this <a href="https://github.com/elianalopez/Java/blob/master/Assignment2/PLP-Assignment2.pdf">PDF</a>.
 #### hello.java
-Veiw the source code <a href="https://github.com/elianalopez/Java/blob/master/Assignment3/PLP-Assignment3.pdf">here</a>.
+Veiw the source code <a href="https://github.com/elianalopez/Java/blob/master/Assignment2/hello.java">here</a>.
 ```java
 class HelloWorld{
     public static void main(String[]args){
@@ -53,6 +53,10 @@ class HelloWorld{
 ## Assignment 3: Data types and naming conventions
 In this assignmentI have studied the various types of primitive and non-primitive data types in Java. I have also learned about the best naming convetions for Java when it comes to naming certain variables in order to make Java legible and easy to analyze from a causal spectator of my code. This entire assigment has been recorded <a href="https://github.com/elianalopez/Java/blob/master/Assignment3/DataTypes.java">here</a>.
 Down below is a short summary of the full-indepth information I have written.
+
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>"click to expand"</summary>
 ### The primitive and non-primitive data types
 Java has two categories of data types: primitve and non-primitive data types. Primitive data types are already pre-defined data types while non-primitve data types are created by programmer. 
 #### Primitive data types
@@ -107,6 +111,9 @@ The practice of following these naming conventions make Java programs much easie
 <br>
 <br>
 To learn more about naming conventions, I recommended viewing the document Sun Microsystems created which I will direct to via <a href="https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html">this webpage</a>.
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Assignment 4: Control Flow
 
