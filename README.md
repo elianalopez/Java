@@ -67,7 +67,7 @@ Java has two categories of data types: primitve and non-primitive data types. Pr
 * Arrays             
 * Classes
 ##### DataTypes.java
-Veiw the entire source code <a href="https://github.com/elianalopez/Java/blob/master/Assignment2/hello.java">here</a>.
+Veiw the entire source code <a href="https://github.com/elianalopez/Java/blob/master/Assignment3/DataTypes.java">here</a>.
 ```java
 public class DataTypes {
   public static void main(String[] args) {
