@@ -4,7 +4,7 @@
     <h1 align="center">Programming Language Project: Java</h1>
     <p align="center" class="h6">Simmons University</p>
     <p align="center" class="h6">By Eliana Lopez</p>
-    <p align="center">This GitHub repository is created for a semester long project in my CS 330 (Structure and Organization of Programming Language) class. I have chosen Java as the language of my choice, so throughout this repository you will view tutorials, Java specific structures, and general computer science foundations.</p>
+    <p align="center">This GitHub repository is created for a semester long project in my CS 330 (Structure and Organization of Programming Language) class. I have chosen Java as the language of my choice, so throughout this repository you will view tutorials, Java specific structures, and general computer science foundations that can be applied with Java.</p>
  </p>
 
 
