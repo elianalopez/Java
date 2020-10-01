@@ -41,3 +41,4 @@ Java has two categories of data types: primitve and non-primitive data types. Pr
 * Classes
 
 ### Java Naming Conventions
+The practice of following these naming conventions make Java programs much easier to analyze and read for a casual observer of the code. Java communities, such as Sun Microsystems and Netscape, ecourage certain pratices such as CamelCase which the practice of writing words without spaces or punctuation of any kind. 
