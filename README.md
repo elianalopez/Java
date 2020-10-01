@@ -1,8 +1,8 @@
 # Java
 GitHub repository for CS 330 Programming Language Project (PLP) which will mainly consist of Java Tutorials
 ##### Table of Contents  
--[Assignment 1](d#assignment-1-language-selection-and-overview)  
--[Assignment 2](#Assignment-2-Installation,-programming-environment,-and-Hello,-World!)  
+-[Assignment 1](#assignment-1-language-selection-and-overview)  
+-[Assignment 2](#Assignment-2-Installation,-programming-environment-and-Hello-World)  
 -[Assignment 3](#Assignment-3-Data-types-and-naming-conventions)  
 -[Primitive and Non-Primitive Data Types](#The-primitive-and-non-primitive-data-types)  
 -[Naming Conventions](#Java-Naming-Conventions)  
