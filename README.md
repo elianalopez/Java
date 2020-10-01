@@ -23,6 +23,7 @@
   * [Primitive and Non-Primitive Data Types](#The-primitive-and-non-primitive-data-types)  
   * [Naming Conventions](#Java-Naming-Conventions)
   * [DataTypes.java](#DataTypes.java)
+- [Assignment 4](#assignment-4-control-flow)  
 - [Citations](#works-cited)  
 
 </details>
@@ -106,6 +107,8 @@ The practice of following these naming conventions make Java programs much easie
 <br>
 <br>
 To learn more about naming conventions, I recommended viewing the document Sun Microsystems created which I will direct to via <a href="https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html">this webpage</a>.
+
+## Assignment 4: Control Flow
 
 ## Works Cited
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
