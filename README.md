@@ -97,10 +97,15 @@ public class DataTypes {
 ```
 ### Java Naming Conventions
 The practice of following these naming conventions make Java programs much easier to analyze and read for a casual observer of the code. Java communities, such as Sun Microsystems and Netscape, ecourage certain pratices utilizing CamelCase when naming variables. CamelCase is the practice of writing words without spaces or punctuation of any kind. 
-####Sequenrial Structure
-####Selection Structure
-####Repetition Structure
-####Branching Statements
+#### Sequenrial Structure
+#### Selection Structure
+#### Repetition Structure
+#### Branching Statements
+In Java there are three types of branching statements that help us adjust the control flow of execution based on certain conditions:
+* break                
+* continue               
+* return
+
 <br>
 <br>
 ```lowerCamelCase \\Variables and Class Members are expressed in lowerCamelCase```
