@@ -4,8 +4,10 @@ public class Continue{
     public static void main(String[] args) {
       
 int i = 1;
+//Print numbers from 1<=i<=10
 while (i <=10) {
-  if (i == 4) {
+  // Since i=4, it will skip 4 and print everything else
+    if (i == 4) {
     i++;
     continue;
   }
