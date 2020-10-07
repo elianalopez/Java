@@ -5,7 +5,7 @@ public class WhileLoop {
     { 
         int x = 1, sum = 0; 
   
-        // Exit when x becomes greater than 4 
+        // Exit when x becomes greater than 10
         while (x <= 10) { 
             sum = sum + x; // Total sum of x 
             x++; // Icrementing the value of x for the next interation
