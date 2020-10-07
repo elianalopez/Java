@@ -117,7 +117,7 @@ To learn more about naming conventions, I recommended viewing the document Sun M
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Assignment 4: Control Flow
-
+Control Flow is the order in which a computer executes the statements of a program, in Java there are three basic types of control flow structures: sequential, selection, and repetition control structure. For assignment 3 I have went into deep detail to understand how Java utilizes control flow, the processes has been documented to <a href="https://github.com/elianalopez/Java/blob/master/Assignment4/PLP-Assignment4.pdf">here</a> but also feel free to look at the href="https://github.com/elianalopez/Java/blob/master/Assignment4/PLP-Assignment4.pdf">Assignment 4</a> folder to understand the source code that complements the assignment. 
 ## Works Cited
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
