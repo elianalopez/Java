@@ -97,9 +97,25 @@ public class DataTypes {
 ```
 ### Java Naming Conventions
 The practice of following these naming conventions make Java programs much easier to analyze and read for a casual observer of the code. Java communities, such as Sun Microsystems and Netscape, ecourage certain pratices utilizing CamelCase when naming variables. CamelCase is the practice of writing words without spaces or punctuation of any kind. 
-#### Sequenrial Structure
+
+#### Sequential Structure
+The default form of control flow in a program for Java. It executes statements of code one line after another in how it is written within the source code, some describe it as being executed in the manner of reading a cookbook!
+
 #### Selection Structure
+In order to alter the flow from its default sequential order of execution, a selection type of structure would “branch out” to certain statements, which happens if the state of a certain variable(s) match the desired condition.
+In Java there are three types of selection statements: 
+* single selection (if statement)
+* double selection (if-else statement)
+* multiple selection (switch-case statement)
+
+
 #### Repetition Structure
+A repetition structure, also known as a loop, is a block of code that is repeated multiple times. 
+In Java there are three types of repetition statements: 
+* while repetition statement (while loop)
+* do...while repetition statement (do while loop)
+* for repetition statement (for loop)
+
 #### Branching Statements
 In Java there are three types of branching statements that help us adjust the control flow of execution based on certain conditions:
 * break                
