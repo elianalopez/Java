@@ -24,6 +24,10 @@
   * [Naming Conventions](#Java-Naming-Conventions)
   * [DataTypes.java](#DataTypes.java)
 - [Assignment 4](#assignment-4-control-flow)  
+  * [Squential Structure](#Squential-Structure)  
+  * [Selection Structure](#Selection-Structure)
+  * [Repetition Structure](#Repetition-Structure)
+  * [Branching Statements](#Branching-Statements)
 - [Citations](#works-cited)  
 
 </details>
