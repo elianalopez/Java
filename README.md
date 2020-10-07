@@ -127,6 +127,7 @@ The default form of control flow in a program for Java. It executes statements o
 
 ### Selection Structure
 In order to alter the flow from its default sequential order of execution, a selection type of structure would “branch out” to certain statements, which happens if the state of a certain variable(s) match the desired condition.
+<br>
 In Java there are three types of selection statements: 
 * single selection (if statement)
 * double selection (if-else statement)
@@ -135,6 +136,7 @@ In Java there are three types of selection statements:
 
 ### Repetition Structure
 A repetition structure, also known as a loop, is a block of code that is repeated multiple times. 
+<br>
 In Java there are three types of repetition statements: 
 * while repetition statement (while loop)
 * do...while repetition statement (do while loop)
