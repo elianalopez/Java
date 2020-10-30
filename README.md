@@ -156,6 +156,8 @@ In Java there are three types of branching statements that help us adjust the co
 In programming, functions can be defined as “self-contained” sequences of code that are program to execute a specific task;  it is a way to combine multiple actions into one single process. Functions in programming work in a similar way to functions in mathematics; as they both have inputs and outputs. <br>
 In the case of Java, what is typically referred to as a function in other programming languages is known as a method. What makes a method a method specifically is that it is a function that belongs to a class, and in Java “every function belongs to a class” 
 
+## Assignment 6: Naming, Scope, and Bindings
+
 ## Works Cited
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
