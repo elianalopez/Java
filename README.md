@@ -161,7 +161,7 @@ Naming plays an important aspect in programing languages because it enables prog
 <br>
 Binding is the operation of associating two things, such as a name and the entity that name represents.
 <br>
-Scope is the region of the program where name-to-object binding is active. In Java the scoping area can easily be described as right between the curly brackets.
+Scope is the region of the program where name-to-object binding is active. In Java the scoping area can easily be described as right between the curly brackets. This is important to know because it plays an important part of where and how variables should be either named or referenced.
 
 ## Works Cited
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
