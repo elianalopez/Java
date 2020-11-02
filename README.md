@@ -157,6 +157,9 @@ In programming, functions can be defined as “self-contained” sequences of co
 In the case of Java, what is typically referred to as a function in other programming languages is known as a method. What makes a method a method specifically is that it is a function that belongs to a class, and in Java “every function belongs to a class” 
 
 ## Assignment 6: Naming, Scope, and Bindings
+Naming plays an important aspect in programing languages because it enables programmers to identify variables, constants, operations, data types, and so on, “rather than using low-level hardware components” like an address.
+Binding is the operation of associating two things, such as a name and the entity that name represents.
+Scope is the region of the program where name-to-object binding is active.
 
 ## Works Cited
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
