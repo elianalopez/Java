@@ -154,7 +154,7 @@ In Java there are three types of branching statements that help us adjust the co
 
 ## Assignment 5: Functions and Parameter Passing
 In programming, functions can be defined as “self-contained” sequences of code that are program to execute a specific task;  it is a way to combine multiple actions into one single process. Functions in programming work in a similar way to functions in mathematics; as they both have inputs and outputs. <br>
-In the case of Java, what is typically referred to as a function in other programming languages is known as a method. What makes a method a method specifically is that it is a function that belongs to a class, and in Java “every function belongs to a class” 
+In the case of Java, what is typically referred to as a function in other programming languages is known as a method. What makes a method a method specifically is that it is a function that belongs to a class, and in Java “every function belongs to a class.”  This entire assigment has been recorded <a href="https://github.com/elianalopez/Java/blob/master/Assignment5/PLP-Assignment5.pdf">here</a> and feel free to also browse the assignment folder <a href="https://github.com/elianalopez/Java/blob/master/Assignment5">here</a>.
 
 ## Assignment 6: Naming, Scope, and Bindings
 Naming plays an important aspect in programing languages because it enables programmers to identify variables, constants, operations, data types, and so on, “rather than using low-level hardware components” like an address.
