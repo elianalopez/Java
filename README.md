@@ -28,11 +28,11 @@
   * [Selection Structure](#Selection-Structure)
   * [Repetition Structure](#Repetition-Structure)
   * [Branching Statements](#Branching-Statements)
+- [Assignment 5](#assignment-5-functions-and-parameter-passing)  
+- [Assignment 6](#assignment-6-naming-scope-and-bindings)  
 - [Citations](#works-cited)  
-
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
-
 
 ## Assignment 1: Language Selection and Overview
 This assignment consist of researching my language of choice, Java, and I answer questions based on the language's history, functionaility, and how it is utilized.
