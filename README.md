@@ -163,6 +163,8 @@ Binding is the operation of associating two things, such as a name and the entit
 <br>
 Scope is the region of the program where name-to-object binding is active. In Java the scoping area can easily be described as right between the curly brackets. This is important to know because it plays an important part of where and how variables should be either named or referenced.
 
+This entire assigment has been recorded <a href="https://github.com/elianalopez/Java/blob/master/Assignment6/PLP-Assignment6.pdf">here</a> and feel free to also browse the assignment folder <a href="https://github.com/elianalopez/Java/blob/master/Assignment6">here</a>.
+
 ## Works Cited
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
