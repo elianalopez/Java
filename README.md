@@ -30,6 +30,7 @@
   * [Branching Statements](#Branching-Statements)
 - [Assignment 5](#assignment-5-functions-and-parameter-passing)  
 - [Assignment 6](#assignment-6-naming-scope-and-bindings)  
+- [Final Project](#Final-Project)  
 - [Citations](#works-cited)  
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -165,7 +166,7 @@ Scope is the region of the program where name-to-object binding is active. In Ja
 
 This entire assigment has been recorded <a href="https://github.com/elianalopez/Java/blob/master/Assignment6/PLP-Assignment6.pdf">here</a> and feel free to also browse the assignment folder <a href="https://github.com/elianalopez/Java/blob/master/Assignment6">here</a>.
 
-##Final Project
+## Final Project
 
 ## Works Cited
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
