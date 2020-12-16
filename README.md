@@ -169,6 +169,17 @@ This entire assigment has been recorded <a href="https://github.com/elianalopez/
 ## Final Project
 
 The final project of my programming langugues course will be a Java implementation of a tic-tac-toe game on the command line.
+### Features
+
+The game had the following features:
+
+* Multiple Game Modes (Single Player, Two Player, Spectator)
+* Instructions 
+* Players were given custom names
+* Keep track of previous winners based off given names
+* Wins and Ties were part of the functionality of the tic-tac-toe game
+
+### Start Screen
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/StartScreen.PNG?raw=true" width="100%" height="100%"></p>
 
 
