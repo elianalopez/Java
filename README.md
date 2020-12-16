@@ -181,7 +181,7 @@ The game had the following features:
 
 ### Start Screen
 
-```
+```java
         welcome(); //releases welcome method
 
         Scanner input = new Scanner(System.in);
@@ -231,11 +231,11 @@ The game had the following features:
 
 ### Winner List
 
-```
+```java
     static ArrayList<String> winners = new ArrayList<String>(); //winners list
 ```
 
-```
+```java
             String result = winningPatterns();
             if(result.length() > 1){
                 System.out.println(result);
