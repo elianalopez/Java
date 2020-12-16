@@ -30,7 +30,7 @@
   * [Branching Statements](#Branching-Statements)
 - [Assignment 5](#assignment-5-functions-and-parameter-passing)  
 - [Assignment 6](#assignment-6-naming-scope-and-bindings)  
-- [Final Project](#Final-Project)  
+- [Final Project](#final-project--java-tic-tac-toe)  
 - [Citations](#works-cited)  
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
