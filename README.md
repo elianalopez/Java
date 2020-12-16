@@ -227,10 +227,6 @@ The game had the following features:
         }
 ```
 
-### Instructions
-
-<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/Instructions.PNG?raw=true" width="85%" height="85%"></p>
-
 ### Winner List
 
 
