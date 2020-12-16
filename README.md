@@ -181,6 +181,10 @@ The game had the following features:
 
 ### Start Screen
 
+
+
+<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/StartScreen.PNG?raw=true" width="100%" height="100%"></p>
+
 ```java
         welcome(); //releases welcome method
 
@@ -223,13 +227,16 @@ The game had the following features:
         }
 ```
 
-<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/StartScreen.PNG?raw=true" width="100%" height="100%"></p>
-
 ### Instructions
 
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/Instructions.PNG?raw=true" width="85%" height="85%"></p>
 
 ### Winner List
+
+
+<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerListEmpty.PNG?raw=true" width="100%" height="100%"></p>
+
+<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerList.PNG?raw=true" width="100%" height="100%"></p>
 
 ```java
     static ArrayList<String> winners = new ArrayList<String>(); //winners list
@@ -244,10 +251,34 @@ The game had the following features:
                 welcome();
                 break;
 ```
+```java
+    public static void winners() {
+        System.out.println("\n--------------------------------------WINNER-LIST--------------------------------------\n");
 
-<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerListEmpty.PNG?raw=true" width="100%" height="100%"></p>
-
-<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerList.PNG?raw=true" width="100%" height="100%"></p>
+        Scanner scanner = new Scanner(System.in);
+        if (winners.isEmpty()){
+            System.out.println("\nWelcome to our Winner's List! \nAs of now there are now new winners yet!");
+            System.out.println("Try playing a game to find out if you will be on the list :)");
+        }
+        else{
+            System.out.println("\nPrevious Winners: ");
+            for (int i = 0; i < winners.size();i++)
+            {
+                System.out.println(winners.get(i));
+            }
+        }
+        System.out.println("\n1. Main Menu: ");
+        System.out.print("\nEnter Your Choice: ");
+        int choice = scanner.nextInt();
+        if (choice == 1) {
+            welcome();
+        }
+        else{
+            System.out.println("\nThis is not a valid Menu Option! Please Select Another!!\n");
+            winners();
+        }
+    }
+```
 
 ### Gameplay
 
