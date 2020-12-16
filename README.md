@@ -179,8 +179,13 @@ The game had the following features:
 * Keep track of previous winners based off given names
 * Wins and Ties were part of the functionality of the tic-tac-toe game
 
-### Start Screen
+### The players
 
+There are two types of players within the tic-tac-toe game, local players and CPUs, and they both function differently. A local player is able to place their answer within the commandline manually while the CPU randomly generates an answer. 
+
+Also one thing to note is to make the CPUs more life like there is a random timer that pauses the method for a short amount of time to mimick human pauses during the game when while thinking of the next move. 
+
+### Start Screen
 
 
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/StartScreen.PNG?raw=true" width="100%" height="100%"></p>
