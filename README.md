@@ -182,6 +182,16 @@ The game had the following features:
 ### Start Screen
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/StartScreen.PNG?raw=true" width="100%" height="100%"></p>
 
+<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/Instructions.PNG?raw=true" width="100%" height="100%"></p>
+
+<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerListEmpty.PNG?raw=true" width="100%" height="100%"></p>
+
+<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerList.PNG?raw=true" width="100%" height="100%"></p>
+
+<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/Game.PNG?raw=true" width="100%" height="100%"></p>
+
+<p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/Win.PNG?raw=true" width="100%" height="100%"></p>
+
 
 ## Works Cited
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
