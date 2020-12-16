@@ -234,6 +234,7 @@ Also one thing to note is to make the CPUs more life like there is a random time
 
 ### Winner List
 
+The start screen entirely runs from a while statement and a switch case senario, in order to go to the different modes which is respectively each a method on its own. 
 
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerListEmpty.PNG?raw=true" width="100%" height="100%"></p>
 
