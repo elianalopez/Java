@@ -235,9 +235,7 @@ The start screen entirely runs from a while statement and a switch case senario,
 
 ### Winner List
 
-There are two versions the the winner list within this program, an empty list prior to before a player starts a game and a winner list with at least one winner from the tic-tac-toe game. Utilizing the built-in isEmpty() method from the java.util package, I was able to guage on whether which verison of the list to implement. 
-
-If there is a winner, then the screen would display all previous winners from each game. 
+There are two versions the the winner list within this program, an empty list prior to before a player starts a game and a winner list with at least one winner from the tic-tac-toe game. Utilizing the built-in isEmpty() method from the java.util package, I was able to guage on whether which verison of the list to implement. If there is a winner, then the screen would display all previous winners from each game. 
 
 #### Winner List (Empty/No Winners)
 
