@@ -180,13 +180,20 @@ The game had the following features:
 * Wins and Ties were part of the functionality of the tic-tac-toe game
 
 ### Start Screen
+
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/StartScreen.PNG?raw=true" width="100%" height="100%"></p>
 
+### Instructions
+
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/Instructions.PNG?raw=true" width="85%" height="85%"></p>
+
+### Winner List
 
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerListEmpty.PNG?raw=true" width="100%" height="100%"></p>
 
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerList.PNG?raw=true" width="100%" height="100%"></p>
+
+### Gameplay
 
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/Game.PNG?raw=true" width="100%" height="100%"></p>
 
