@@ -245,7 +245,7 @@ There are two versions the the winner list within this program, an empty list pr
 
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerList.PNG?raw=true" width="100%" height="100%"></p>
 
-The consturction and implementation of the winner list after a player is declared a winner.
+The construction and implementation of the winner list after a player is declared a winner.
 
 ```java
     static ArrayList<String> winners = new ArrayList<String>(); //winners list
