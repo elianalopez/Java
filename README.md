@@ -181,6 +181,48 @@ The game had the following features:
 
 ### Start Screen
 
+```
+        welcome(); //releases welcome method
+
+        Scanner input = new Scanner(System.in);
+        int choice;
+        while (true) {
+            System.out.print("1.) Single Player Mode\n");
+            System.out.print("2.) Two Player Mode\n");
+            System.out.print("3.) Spectator Mode\n");
+            System.out.print("4.) Instructions\n");
+            System.out.print("5.) Winner List\n");
+            System.out.print("\nEnter Your Menu Choice: ");
+            choice = input.nextInt();
+            //nextInt() is a method from the java.util.Scanner
+
+            switch (choice) {
+                case 1:
+                    Game oneGame = new Game();
+                    oneGame.onePlayer(gameBoard);
+                    break;
+                case 2:
+                    Game twoGame = new Game();
+                    twoGame.twoPlayer(gameBoard);
+                    break;
+                case 3:
+                    Game cpuGame = new Game();
+                    cpuGame.spectator(gameBoard);
+                    break;
+                case 4:
+                    instructions();
+                    break;
+                case 5:
+                    winners();
+                    break;
+                default:
+                    System.out.println("\nThis is not a valid Menu Option! Please Select Another!!\n");
+                    //if inputs do not match cases this will print
+                    break;
+            }
+        }
+```
+
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/StartScreen.PNG?raw=true" width="100%" height="100%"></p>
 
 ### Instructions
