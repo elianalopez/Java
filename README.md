@@ -189,6 +189,20 @@ The game had the following features:
 
 ### Winner List
 
+```
+    static ArrayList<String> winners = new ArrayList<String>(); //winners list
+```
+
+```
+            String result = winningPatterns();
+            if(result.length() > 1){
+                System.out.println(result);
+                System.out.println(CPU1 + "'is the winner!");
+                winners.add(CPU1);
+                welcome();
+                break;
+```
+
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerListEmpty.PNG?raw=true" width="100%" height="100%"></p>
 
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerList.PNG?raw=true" width="100%" height="100%"></p>
