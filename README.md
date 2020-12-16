@@ -170,7 +170,7 @@ This entire assigment has been recorded <a href="https://github.com/elianalopez/
 
 The final project of my programming langugues course will be a Java implementation of a tic-tac-toe game on the command line.
 
-Feel free to look at the <a href="https://github.com/elianalopez/Java/blob/master/Final%20Project/PLP-Final%20Paper.pdf">final presentation</a> I created about Java in my programming languages course as well as my <a href="https://github.com/elianalopez/Java/blob/master/Final%20Project/PLP-Final%20Paper.pdf">final paper</a> regarding my tic-tac-toe project.
+Feel free to look at the <a href="https://github.com/elianalopez/Java/blob/master/Final%20Project/Programming%20Language%20Project%20Presentation.pdf">final presentation</a> I created about Java in my programming languages course as well as my <a href="https://github.com/elianalopez/Java/blob/master/Final%20Project/PLP-Final%20Paper.pdf">final paper</a> regarding my tic-tac-toe project.
  
 ### Features
 
