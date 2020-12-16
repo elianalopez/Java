@@ -187,6 +187,7 @@ Also one thing to note is to make the CPUs more life like there is a random time
 
 ### Start Screen
 
+The start screen entirely runs from a while statement and a switch case senario, in order to go to the different modes which is respectively each a method on its own. 
 
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/StartScreen.PNG?raw=true" width="100%" height="100%"></p>
 
@@ -234,9 +235,15 @@ Also one thing to note is to make the CPUs more life like there is a random time
 
 ### Winner List
 
-The start screen entirely runs from a while statement and a switch case senario, in order to go to the different modes which is respectively each a method on its own. 
+There are two versions the the winner list within this program, an empty list prior to before a player starts a game and a winner list with at least one winner from the tic-tac-toe game. Utilizing the built-in isEmpty() method from the java.util package, I was able to guage on whether which verison of the list to implement. 
+
+If there is a winner, then the screen would display all previous winners from each game. 
+
+#### Winner List (Empty/No Winners)
 
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerListEmpty.PNG?raw=true" width="100%" height="100%"></p>
+
+#### Winner List (Not Empty)
 
 <p align="center"><img src="https://github.com/elianalopez/Java/blob/master/Images/WinnerList.PNG?raw=true" width="100%" height="100%"></p>
 
