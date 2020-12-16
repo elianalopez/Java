@@ -166,7 +166,7 @@ Scope is the region of the program where name-to-object binding is active. In Ja
 
 This entire assigment has been recorded <a href="https://github.com/elianalopez/Java/blob/master/Assignment6/PLP-Assignment6.pdf">here</a> and feel free to also browse the assignment folder <a href="https://github.com/elianalopez/Java/blob/master/Assignment6">here</a>.
 
-## Final Project| Java Tic-Tac-Toe
+## Final Project | Java Tic-Tac-Toe
 
 The final project of my programming langugues course will be a Java implementation of a tic-tac-toe game on the command line.
 
