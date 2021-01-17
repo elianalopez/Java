@@ -61,10 +61,12 @@ Down below is a short summary of the full-indepth information I have written.
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
+ 
 <summary>click for a brief view on data types and naming conventions in Java</summary>
  
 ### The primitive and non-primitive data types
 Java has two categories of data types: primitve and non-primitive data types. Primitive data types are already pre-defined data types while non-primitve data types are created by programmer. 
+
 #### Primitive data types
 * Byte                
 * Short               
@@ -80,7 +82,9 @@ Java has two categories of data types: primitve and non-primitive data types. Pr
 * Arrays             
 * Classes
 #### DataTypes.java
+
 Veiw the entire source code <a href="https://github.com/elianalopez/Java/blob/master/Assignment3/DataTypes.java">here</a>.
+
 ```java
 public class DataTypes {
   public static void main(String[] args) {
