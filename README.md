@@ -118,13 +118,25 @@ lowerCamelCase \\Variables and Class Members are expressed in lowerCamelCase
 
 <br>
 <br>
-```UpperCamelCase \\Classes are typically written in UpperCamelCase```
+
+```
+UpperCamelCase \\Classes are typically written in UpperCamelCase
+```
+
 <br>
 <br>
-```com.sun.eng \\For packages, use reverse URI (Uniform Resource Identifier),```
+
+```
+com.sun.eng \\For packages, use reverse URI (Uniform Resource Identifier)
+```
+
 <br>
 <br>
-```ALL_CAPS \\variables declared class constants```
+
+```
+ALL_CAPS \\variables declared class constants
+```
+
 <br>
 <br>
 To learn more about naming conventions, I recommended viewing the document Sun Microsystems created which I will direct to via <a href="https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html">this webpage</a>.
