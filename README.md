@@ -111,7 +111,11 @@ The practice of following these naming conventions make Java programs much easie
 
 <br>
 <br>
-```lowerCamelCase \\Variables and Class Members are expressed in lowerCamelCase```
+
+```
+lowerCamelCase \\Variables and Class Members are expressed in lowerCamelCase
+```
+
 <br>
 <br>
 ```UpperCamelCase \\Classes are typically written in UpperCamelCase```
