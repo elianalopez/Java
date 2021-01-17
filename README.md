@@ -16,8 +16,8 @@
 <details>
 <summary>click to expand</summary>
  
-- [Assignment 1](#assignment-1-language-selection-and-overview)  
-- [Assignment 2](#assignment-2-installation-programming-environment-and-hello-world)  
+- [Assignment 1: Language Selection and Overview](#assignment-1-language-selection-and-overview)  
+- [Assignment 2: Installation, programming environment, and Hello, World!](#assignment-2-installation-programming-environment-and-hello-world)  
   * [hello.java](#hellojava)
 - [Assignment 3](#assignment-3-data-types-and-naming-conventions)  
   * [Primitive and Non-Primitive Data Types](#the-primitive-and-non-primitive-data-types)  
